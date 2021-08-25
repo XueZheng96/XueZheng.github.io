@@ -67,9 +67,9 @@ h2 code {
     font-family: 'Ubuntu Mono', serif;
 }
 
-#profile_picture  {
-    width: 10%;
-    height: 10%;
+profile_picture  {
+    width: 20%;
+    height: 20%;
     margin-top: 1%;
 }
 
